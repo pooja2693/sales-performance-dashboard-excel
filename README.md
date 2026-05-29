@@ -46,7 +46,7 @@ This project is an interactive Sales Performance Dashboard built in Microsoft Ex
 
 ## Dashboard Preview
 
-Dashboard_Screenshot.png
+![Sales Dashboard](Dashboard_Screenshot.png)
 
 ## Project Outcome
 
